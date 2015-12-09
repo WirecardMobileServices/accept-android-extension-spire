@@ -21,7 +21,7 @@ repositories {
 }
 
 dependencies {
-	compile 'com.github.mposSVK:accept-android-extension-spire:v1.4.8'
+	compile 'com.github.mposSVK:accept-android-extension-spire:1.4.8'
 }
 ```
 
