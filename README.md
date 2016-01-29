@@ -1,6 +1,5 @@
 # accept-android-extension-spire
 
-
 <img src="https://raw.githubusercontent.com/mposSVK/acceptSDK/master/docs/logo.png" alt="acceptSDK" width=240 height=95>
 
 ## Overview
@@ -21,7 +20,7 @@ repositories {
 }
 
 dependencies {
-	compile 'com.github.mposSVK:accept-android-extension-spire:v1.4.9'
+	compile 'com.github.mposSVK:accept-android-extension-spire:1.4.10'
 }
 ```
 
@@ -40,10 +39,3 @@ See [acceptSDK-Android] (https://github.com/mposSVK/acceptSDK-Android "acceptSDK
 
    Wirecard Technologies Slovakia,  mpos-svk@wirecard.com 
    
-   marek.humenik, marek.humenik@wirecard.com
-   
-   patrik.misencik, patrik.misencik@wirecard.com
-   
-   marek.richter, marek.richter@wirecard.com
-   
-   damian.kolakowski, damian.kolakowski@partner.wirecard.com
