@@ -20,7 +20,7 @@ repositories {
 }
 
 dependencies {
-	compile 'com.github.WirecardMobileServices:accept-android-extension-spire:1.6.1'
+	compile 'com.github.WirecardMobileServices:accept-android-extension-spire:1.6.2'
 }
 ```
 
@@ -36,6 +36,7 @@ SDK|Spire extension|BBPos extension|
 1.6.0|1.6.0|1.6.0|
 1.6.1|1.6.0|1.6.1|
 1.6.1|1.6.1|1.6.1|
+1.6.2|1.6.2|1.6.2|
 
 ## Contact
 Get in touch with [acceptSDK development team](mailto://mpos-svk@wirecard.com "acceptSDK") for acceptSDK support and mPOS Whitelabel solution
