@@ -48,7 +48,7 @@ Get in touch with [Wirecard mPOS retail team](mailto://retail.mpos@wirecard.com 
 See [acceptSDK-Android] (https://github.com/mposSVK/acceptSDK-Android "acceptSDK-Android") Documentation part.
 
 ## Requirements
-* Device running Android > 3.0
+* Device running Android > 4.2 (Jelly Bean)
 
 ## Authors
 
